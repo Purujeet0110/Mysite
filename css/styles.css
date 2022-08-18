@@ -57,6 +57,11 @@ a:hover{
 
 }
 
+.profile{
+  width: 35%;
+  margin: auto;
+}
+
 
 .top-container {
   background-color: #DEF4F0;
@@ -69,10 +74,7 @@ margin: 100px 0 0;
 
 }
 
-.profile{
-  width: 35%;
-  margin: auto;
-}
+
 
 .bottom-container {
 background-color: #66BFBF;
